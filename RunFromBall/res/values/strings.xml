@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">躲躲看</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="game_guide">"手指触摸屏幕的两侧，控制左右移动，防止被球砸中，看谁能坚持的时间最长！"</string>
+
+</resources>
